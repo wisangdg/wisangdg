@@ -2,7 +2,7 @@
 
 # Wisang Drillian Geni
 
-### IT Support · Application Support · Junior Full Stack Developer
+### IT Support · Application Support · Full Stack Developer
 
 **Jakarta, Indonesia** · Open to on-site, hybrid & remote
 
@@ -17,7 +17,7 @@
 
 I spent 4+ years on the front line of customer support — resolving 15–50+ inquiries and operational issues daily under SLA pressure. That work taught me how systems actually fail for real users, and it pushed me deeper into the technical side: **Windows Server & Active Directory administration, networking, and building the tools I wished existed.**
 
-Today I build and break things in a virtualized home lab (KVM/QEMU, Windows Server 2025, AD DS, DNS), automate my own workflows with PowerShell, Bash, and Espanso, and ship side projects across the stack — from a Go REST API to a Flutter OCR app. I'm looking for an **IT Support / Application Support / Junior Developer** role where troubleshooting, clear communication, and self-driven automation are valued.
+Today I build and break things in a virtualized home lab (KVM/QEMU, Windows Server 2025, AD DS, DNS), automate my own workflows with PowerShell, Bash, and Espanso, and ship side projects across the stack — from a Go REST API to a Flutter OCR app. I'm looking for an **IT Support / Application Support / Full Stack Developer** role where troubleshooting, clear communication, and self-driven automation are valued.
 
 ---
 
