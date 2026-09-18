@@ -17,7 +17,7 @@
 
 I spent 4+ years on the front line of customer support — resolving 15–50+ inquiries and operational issues daily under SLA pressure. That work taught me how systems actually fail for real users, and it pushed me deeper into the technical side: **Windows Server & Active Directory administration, networking, and building the tools I wished existed.**
 
-Today I build and break things in a virtualized home lab (KVM/QEMU, Windows Server 2025, AD DS, DNS), automate my own workflows with PowerShell, Bash, and Espanso, and ship side projects across the stack — from a Go REST API to a Flutter OCR app. I'm looking for an **IT Support / Application Support / Full Stack Developer** role where troubleshooting, clear communication, and self-driven automation are valued.
+Today I build and break things in a virtualized home lab (KVM/QEMU, Windows Server 2025, AD DS, DNS), automate my own workflows with PowerShell, Bash, and Espanso, and build side projects across the web stack. I'm looking for an **IT Support / Application Support / Full Stack Developer** role where troubleshooting, clear communication, and self-driven automation are valued.
 
 ---
 
@@ -36,18 +36,15 @@ Today I build and break things in a virtualized home lab (KVM/QEMU, Windows Serv
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 **Web & Backend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
