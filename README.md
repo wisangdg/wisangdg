@@ -70,12 +70,6 @@ A local-first, inspectable memory layer for AI coding agents on Omarchy. Scrolla
 ### 🗂️ [Nextly](https://github.com/wisangdg/nextly) — Local-First Task Manager with Smart Sorting
 A privacy-respecting task manager with transparent, rule-based prioritization (urgency buckets, priority weights, due-date proximity) and explicit "Why this task?" badges. No accounts, no cloud, no mystery algorithms. `TypeScript · React`
 
-### 🎯 [InvenScan & Reminder](https://github.com/wisangdg/invenscan-mobile) — OCR Inventory & Warranty Tracker
-Flutter mobile app (iOS/Android) using **on-device Google ML Kit OCR** to scan receipts, track warranty countdowns with scheduled reminders, and log parking tickets with live duration and fare estimation. `Flutter · Dart · BLoC`
-
-### ⚙️ [Reminds Me API](https://github.com/wisangdg/remindsme-backend) — Go REST API
-Production-style REST API covering auth, reminders, subscriptions, payments, and Firebase Storage uploads, with **MongoDB** for data and **Redis** for OAuth state and revoked JWTs. `Go · MongoDB · Redis`
-
 ### 🛒 [SavoryCart](https://github.com/wisangdg/savorycart_client) — Full-Stack E-Commerce
 End-to-end e-commerce application with authentication, product catalog, search, and cart, split into a React client and an Express/MongoDB server. `React · Express · MongoDB`
 
